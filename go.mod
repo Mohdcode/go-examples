@@ -1,3 +1,3 @@
-module github.com/Mohdcode/go-examples
+module  github.com/Mohdcode/go-examples
 
 go 1.26.2
